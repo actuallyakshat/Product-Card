@@ -1,2 +1,2 @@
 # Product-Card
-A small project which will help me practice my html and CSS skills
+A small project which will help me practice my HTML and CSS skills
